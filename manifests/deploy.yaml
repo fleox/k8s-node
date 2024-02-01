@@ -16,5 +16,5 @@ spec:
     spec:
       containers:
       - name: api
-        image: registry.github.com/fleox/k8s-node:latest:latest
+        image: registry.github.com/fleox/k8s-node:latest
         imagePullPolicy: Always
