@@ -1,0 +1,6 @@
+version: '3'
+services:
+  build-1:
+    build:
+      context: ./build-1
+    image: fleox/test
